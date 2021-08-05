@@ -2,9 +2,9 @@
 
 This is a technical exercise to fetch data from an API and display on the front end using the latest Angular.
 
-Built with:
-Angular CLI: 12.1.4
-Node: 14.17.4
+Built with:<br/>
+Angular CLI: 12.1.4<br/>
+Node: 14.17.4<br/>
 Package Manager: npm 7.20.3
 
 To view the live demo: http://www.raychavezweb.com/image-gallery/index.html
