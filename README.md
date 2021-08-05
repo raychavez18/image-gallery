@@ -1,3 +1,12 @@
+Angular Image Gallery App
+
+This is a technical exercise to fetch data from an API and display on the front end using the latest Angular.
+
+Built with:
+Angular CLI: 12.1.4
+Node: 14.17.4
+Package Manager: npm 7.20.3
+
 # ImageGallery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
