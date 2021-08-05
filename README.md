@@ -7,6 +7,8 @@ Angular CLI: 12.1.4
 Node: 14.17.4
 Package Manager: npm 7.20.3
 
+To view the live demo: http://www.raychavezweb.com/image-gallery/index.html
+
 # ImageGallery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
