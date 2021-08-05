@@ -1,4 +1,4 @@
-Angular Image Gallery App
+# Angular Image Gallery App
 
 This is a technical exercise to fetch data from an API and display on the front end using the latest Angular.
 
